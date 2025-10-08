@@ -43,8 +43,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ilpenSE&color=blue&style=flat-square)  
 
---- TURKISH
-
 # 👋 Merhaba, ben ilpenSE  
 
 ## 🖥️ Hakkımda  
