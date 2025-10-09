@@ -3,8 +3,8 @@
 ## 🖥️ About Me  
 - 🎓 Learning **Computer Science**, diving into subfields like **Operating Systems Theory**  
 - ⚙️ Love working with **low-level programming** close to memory and CPU (**C / C++**)  
-- 🌐 Also exploring the **Web side**, with experience in **Java**, **C#**, and **C++**  
-- 🧩 Enjoy applying **Object-Oriented Programming** concepts across languages  
+- 🌐 Also exploring the **Web side**  
+- 🧩 Enjoy applying **Object-Oriented Programming** concepts across languages like **Java**, **C#**, and **C++**
 
 ---
 
@@ -48,8 +48,8 @@
 ## 🖥️ Hakkımda  
 - 🎓 **Bilgisayar Bilimleri** öğreniyorum, özellikle **İşletim Sistemleri Teorisi** gibi alt dallarla ilgileniyorum  
 - ⚙️ **C / C++** gibi **donanıma yakın düşük seviye programlama** dillerini seviyorum  
-- 🌐 Bunun yanında **Web tarafında** da birkaç şey biliyorum (**Java, C#, C++**)  
-- 🧩 **Nesne Yönelimli Programlama (OOP)** mantığını farklı dillerde uygulamaktan hoşlanıyorum  
+- 🌐 Bunun yanında **Web tarafında** da birkaç şey biliyorum  
+- 🧩 **Nesne Yönelimli Programlama (OOP)** mantığını **Java, C#, C++** gibi dillerde uygulamaktan hoşlanıyorum  
 
 ---
 
