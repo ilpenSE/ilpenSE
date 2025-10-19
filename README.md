@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ilpenSE  
+# 👋 Hi, I'm ilpeN
 
 ## 🖥️ About Me  
 - 🎓 Learning **Computer Science**, diving into subfields like **Operating Systems Theory**  
